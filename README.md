@@ -6,7 +6,7 @@
 ---
 
 ## イタリア名所クイズ
-http://italy-quiz-next.s3-website-us-east-1.amazonaws.com
+https://d1onopwrq9atib.cloudfront.net
 
 ## 一言定義
 知っていそうで知らないイタリアの地名クイズ
