@@ -32,7 +32,7 @@ https://d1onopwrq9atib.cloudfront.net
 ②画像最適化
 画像の表示速度が遅く、ユーザーのストレスが上がり、離脱したという実際の声を受け、画像を軽量化しました。
 
-### 計測と検証
+### 計測（検証）
 ③ パフォーマンス計測と切り分け
 Next.js移植および画像最適化後、
 LighthouseにてPerformance 40という結果が出ました。
@@ -71,6 +71,21 @@ UIをよりモダンなものにすることで高級感を向上させていま
 ただし、mainvisualスライドのpreloadを行うと  
 全体の読み込みが遅くなる恐れがあったため断念しています。
 
+## 計測
+
+### Lighthouse（Slow 4G）
+Performance: 63
+LCP: 2.3s
+TBT: 1120ms
+
+→ Slow 4G + CPUスロットリング条件
+
+### 実測（No Throttling）
+LCP: 3.56s
+Total transferred: 129KB
+
+→ ラボ値と実測の差分を確認
+<img width="678" height="527" alt="image" src="https://github.com/user-attachments/assets/ac0d567f-2815-4a27-88d6-39b3811ce82e" />
 
 ---
 
