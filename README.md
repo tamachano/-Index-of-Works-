@@ -35,25 +35,28 @@ https://d1onopwrq9atib.cloudfront.net (旧版）
 ### 計測（検証）
 ## パフォーマンス改善
 
-### Before（CSR + CloudFront）
+## パフォーマンス改善（Before / After）
 
+<table>
+  <tr>
+    <th>Before（CSR + CloudFront）</th>
+    <th>After（Next.js SSG + Vercel CDN）</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="400" height="185" alt="image" src="https://github.com/user-attachments/assets/4305cf94-8d81-490b-95f3-c59e7cceb9ef" />
+      <br/>
+      <b>Performance: 41</b>
+    </td>
+    <td align="center">
+      <img width="400" height="180" alt="image" src="https://github.com/user-attachments/assets/2e74eb78-4cc5-4f72-8da6-2cfbac910a3e" />
 
-- Performance: 41
-- 読み込みに時間がかかる
-- LCPが重い
+      <br/>
+      <b>Performance: 94</b>
+    </td>
+  </tr>
+</table>
 
-<img width="648" height="187" alt="image" src="https://github.com/user-attachments/assets/1edb0607-20a0-40a7-9a33-eab7f92c9fc5" />
-
----
-
-### After（Next.js SSG + Vercel CDN）
-
-
-- Performance: 94
-- SSG化により初期描画改善
-- CDN配信で高速化
-
-<img width="627" height="190" alt="image" src="https://github.com/user-attachments/assets/f56189ed-350c-452c-9888-c094a4fd6455" />
 
 
 ---
