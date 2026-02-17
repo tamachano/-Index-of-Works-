@@ -34,10 +34,10 @@ https://d1onopwrq9atib.cloudfront.net (旧版）
 
 ③パフォーマンス改善（Before / After）
   
-・フォントの不要サイズの削除、
-・JS、CSSの不要コード削除
-・読み込み遅延の原因となっていたpreload削除等。
-・Vercel環境への移行に伴う自動最適化
+・フォントの不要サイズの削除  
+・JS、CSSの不要コード削除  
+・読み込み遅延の原因となっていたpreload削除等。  
+・Vercel環境への移行に伴う自動最適化  
  
 <table>
   <tr>
