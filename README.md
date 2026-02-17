@@ -5,8 +5,8 @@
 ---
 
 ## イタリア名所クイズ
+https://italy-quiz-optimized.vercel.app/
 https://d1onopwrq9atib.cloudfront.net
-
 ## 一言定義
 知っていそうで知らないイタリアの地名クイズ
 
