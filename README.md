@@ -41,7 +41,8 @@ https://d1onopwrq9atib.cloudfront.net (旧版）
 - Performance: 41
 - 読み込みに時間がかかる
 - LCPが重い
-<img width="683" height="715" alt="image" src="https://github.com/user-attachments/assets/0370ca24-e5b3-48c3-9a83-86b88819aa4d" />
+
+<img width="648" height="187" alt="image" src="https://github.com/user-attachments/assets/1edb0607-20a0-40a7-9a33-eab7f92c9fc5" />
 
 ---
 
@@ -52,7 +53,8 @@ https://d1onopwrq9atib.cloudfront.net (旧版）
 - SSG化により初期描画改善
 - CDN配信で高速化
 
-<img width="680" height="711" alt="image" src="https://github.com/user-attachments/assets/61a77122-4ff9-49d5-981e-0f4008c6ba21" />
+<img width="627" height="190" alt="image" src="https://github.com/user-attachments/assets/f56189ed-350c-452c-9888-c094a4fd6455" />
+
 
 ---
 
