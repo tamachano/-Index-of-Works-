@@ -45,7 +45,6 @@ https://d1onopwrq9atib.cloudfront.net (旧版）
   <tr>
     <td align="center">
       <img width="400" height="185" alt="image" src="https://github.com/user-attachments/assets/2e74eb78-4cc5-4f72-8da6-2cfbac910a3e" />
-      
       <br/>
       <b>Performance: 41</b>
     </td>
