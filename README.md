@@ -56,8 +56,8 @@ https://d1onopwrq9atib.cloudfront.net (旧版）
   </tr>
 </table>
 
-**Lighthouse Performance: 41 → 94（+53改善）**
-
+Lighthouse Performance: 41 → 94（+53改善）
+※双方ともシークレットモードで計測
 
 
 ---
