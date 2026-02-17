@@ -33,18 +33,24 @@ https://d1onopwrq9atib.cloudfront.net (旧版）
 画像の表示速度が遅く、ユーザーのストレスが上がり、離脱したという実際の声を受け、画像を軽量化しました。
 
 ### 計測（検証）
-③ パフォーマンス計測と切り分け
-Next.js移植および画像最適化後、
-LighthouseにてPerformance 40という結果が出ました。
+## パフォーマンス改善
 
-当初は画像サイズの問題や、JSバンドル肥大を疑いましたが、
-・S3上の画像サイズ確認（約100KB前後）
-・_next/staticのJSサイズ確認（約1MB未満）
-・DevTools Network実測（初回転送約129KB）
-等の情報を通じてネットワーク起因ではないことを確認。
+### Before（CSR + CloudFront）
+![Before](./docs/before.png)
 
-その後、LighthouseがSlow 4GおよびCPUスロットリング環境で測定していることを理解し、
-実測値（LCP 3.56s）との乖離を切り分けました。
+- Performance: 41
+- 読み込みに時間がかかる
+- LCPが重い
+
+---
+
+### After（Next.js SSG + Vercel CDN）
+![After](./docs/after.png)
+
+- Performance: 94
+- SSG化により初期描画改善
+- CDN配信で高速化
+
 
 ---
 
