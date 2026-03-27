@@ -1,8 +1,10 @@
-# Index of Works
+<img width="681" height="596" alt="image" src="https://github.com/user-attachments/assets/f6f58746-1086-4c70-853d-bf60832c75ef" /># Index of Works
 私のプロダクトにおける、【思考と判断のログ】を公開する保存庫です。  
 「なぜそう考えたか」を残すことを目的としています。
 
 ---
+<img width="681" height="596" alt="image" src="https://github.com/user-attachments/assets/c230708f-0bbb-4217-97d0-211bb4312c71" />
+![Uploading image.png…]()
 
 ## イタリア名所クイズ
 https://italy-quiz-optimized.vercel.app/ (軽量化)  
