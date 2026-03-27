@@ -65,7 +65,7 @@ Lighthouse Performance: 41 → 94（+53改善）
 
 
 ---
-<img width="463" height="178" alt="image" src="https://github.com/user-attachments/assets/f99bbad0-6a2f-4995-8a40-04858c2afbf2" />
+<img width="263" height="178" alt="image" src="https://github.com/user-attachments/assets/f99bbad0-6a2f-4995-8a40-04858c2afbf2" />
 
 ## Aurora
 https://d17sydrv5aw49e.cloudfront.net/
