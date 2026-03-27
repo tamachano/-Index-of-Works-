@@ -3,7 +3,7 @@
 「なぜそう考えたか」を残すことを目的としています。
 
 ---
-<img width="863" height="378" alt="image" src="https://github.com/user-attachments/assets/1d2a0f34-f565-4adf-80ed-1d303c29cac4" />
+<img width="463" height="178" alt="image" src="https://github.com/user-attachments/assets/1d2a0f34-f565-4adf-80ed-1d303c29cac4" />
 
 ## イタリア名所クイズ
 https://italy-quiz-optimized.vercel.app/ (軽量化)  
