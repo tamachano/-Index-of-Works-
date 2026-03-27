@@ -65,7 +65,7 @@ Lighthouse Performance: 41 → 94（+53改善）
 
 
 ---
-<img width="263" height="178" alt="image" src="https://github.com/user-attachments/assets/f99bbad0-6a2f-4995-8a40-04858c2afbf2" />
+<img width="263" height="200" alt="image" src="https://github.com/user-attachments/assets/f99bbad0-6a2f-4995-8a40-04858c2afbf2" />
 
 ## Aurora
 https://d17sydrv5aw49e.cloudfront.net/
@@ -107,7 +107,7 @@ Total transferred: 129KB
 <img width="678" height="527" alt="image" src="https://github.com/user-attachments/assets/ac0d567f-2815-4a27-88d6-39b3811ce82e" />
 
 ---
-<img width="463" height="178" alt="image" src="https://github.com/user-attachments/assets/7034bc5f-440b-439c-b197-23c54b06ad07" />
+<img width="203" height="178" alt="image" src="https://github.com/user-attachments/assets/7034bc5f-440b-439c-b197-23c54b06ad07" />
 
 ## それ、買うbuy？
 https://dmvig8face73p.cloudfront.net/
