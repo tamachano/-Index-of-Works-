@@ -107,7 +107,8 @@ Total transferred: 129KB
 <img width="678" height="527" alt="image" src="https://github.com/user-attachments/assets/ac0d567f-2815-4a27-88d6-39b3811ce82e" />
 
 ---
-<img width="305" height="301" alt="image" src="https://github.com/user-attachments/assets/d851e643-ea39-4a1e-b2e4-fc59779a5d3d" />
+<img width="339" height="338" alt="image" src="https://github.com/user-attachments/assets/0dc34dd2-0242-40d3-bc23-b0c19a18555d" />
+
 
 ## それ、買うbuy？
 https://dmvig8face73p.cloudfront.net/
