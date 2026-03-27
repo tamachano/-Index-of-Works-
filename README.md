@@ -1,4 +1,4 @@
-<img width="681" height="596" alt="image" src="https://github.com/user-attachments/assets/f6f58746-1086-4c70-853d-bf60832c75ef" /># Index of Works
+# Index of Works
 私のプロダクトにおける、【思考と判断のログ】を公開する保存庫です。  
 「なぜそう考えたか」を残すことを目的としています。
 
