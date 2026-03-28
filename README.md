@@ -166,7 +166,7 @@ UIとして不親切であった可能性があります。
 
 
 ## Thinker
-<img width="280" height="198" alt="image" src="https://github.com/user-attachments/assets/5046907e-8eeb-46a9-8dfa-0c309bc8a64c" />
+<img width="339" height="338" alt="image" src="https://github.com/user-attachments/assets/5046907e-8eeb-46a9-8dfa-0c309bc8a64c" />
 
 https://thinker-sable.vercel.app
 ## 作成理由
