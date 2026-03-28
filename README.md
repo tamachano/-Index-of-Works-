@@ -166,6 +166,8 @@ UIとして不親切であった可能性があります。
 
 
 ## Thinker
+<img width="842" height="594" alt="image" src="https://github.com/user-attachments/assets/5046907e-8eeb-46a9-8dfa-0c309bc8a64c" />
+
 https://thinker-sable.vercel.app
 ## 作成理由
 既存の対話型AIでは対話の内容が流れ、
