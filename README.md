@@ -164,7 +164,7 @@ UIとして不親切であった可能性があります。
 
 加えて、画像読み込み時間も課題です。
 
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/d7622d54-43c6-43a6-ba83-a25edfc83cb0" />
+<img width="480" height="400" alt="image" src="https://github.com/user-attachments/assets/d7622d54-43c6-43a6-ba83-a25edfc83cb0" />
 
 
 
