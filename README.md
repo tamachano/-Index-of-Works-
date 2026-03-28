@@ -165,6 +165,8 @@ UIとして不親切であった可能性があります。
 加えて、画像読み込み時間も課題です。
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/5046907e-8eeb-46a9-8dfa-0c309bc8a64c" />
+
+
 ## Thinker
 
 https://thinker-sable.vercel.app
